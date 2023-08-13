@@ -5,3 +5,18 @@ This is No.1 pixiv image scraper!!
 一応これは教育目的で作成・公開されました
 
 利用規約に引っかかってます
+
+# How to use
+
+1. install python
+2. `pip install requests bs4`
+3. run `main.py`
+
+# Todo:
+NSFW作品に対応させる
+
+# その他
+イキってところどころ英語にしてますが気にせずに（）
+
+Discord: https://discord.gg/d97mY76SD4
+UserName: .kap210
