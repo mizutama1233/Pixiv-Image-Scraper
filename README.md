@@ -12,8 +12,8 @@ This is No.1 pixiv image scraper!!
 2. `pip install requests bs4`
 3. run `main.py`
 
-# Todo:
-NSFW作品に対応させる
+# NSFW:
+`headers`のところに`"Cookie": ""`って君のクッキーを追加すれば出来るよ！
 
 # その他
 イキってところどころ英語にしてますが気にせずに（）
