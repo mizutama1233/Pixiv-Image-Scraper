@@ -18,5 +18,5 @@ This is No.1 pixiv image scraper!!
 # その他
 イキってところどころ英語にしてますが気にせずに（）
 
-Discord: https://discord.gg/d97mY76SD4
+Discord: https://discord.gg/haihu
 UserName: .kap210
