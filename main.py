@@ -52,4 +52,4 @@ if data["error"] == False:
             if r.status_code == 404:
                 break
 else:
-    print("could not find user")
+    print("Could not find the user")
